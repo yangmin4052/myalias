@@ -1,0 +1,22 @@
+{
+  "name": "myalias",
+  "version": "0.0.3",
+  "description": "aliases for terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangmin4052",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangmin4052/myalias.git"
+  },
+  "keywords": [
+    "myalias"
+  ],
+  "bugs": {
+    "url": "https://github.com/yangmin4052/myalias/issues"
+  },
+  "homepage": "https://github.com/yangmin4052/myalias#readme"
+}
